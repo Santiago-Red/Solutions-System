@@ -1,2 +1,2 @@
 # Vital-ShopOnline
-Solutions Systems, ofrece gran variedad de soporte técnico en informática y productos útiles y necesarios en el Día a día. 
+Vital Shop - Es una tienda online, con una gran vision futurista del mercado exclusivo en moda, ofreciendo gran variedad de estilos, marcas y tendias al alcance de todos. 
